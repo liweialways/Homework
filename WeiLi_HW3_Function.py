@@ -6,6 +6,7 @@ WeiLi_HW3_Function.py
 To define a function so that it can calculate the mean absolute error of the 
 estimation method for the next day's weather based on the previous k days' weather.
 
+hello, this is for test changes.
 
 
 input: 
